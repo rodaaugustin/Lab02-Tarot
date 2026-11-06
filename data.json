@@ -1,0 +1,13 @@
+{
+    "chart_title": "My Tarot Card Ratings",
+    "data_points": [
+        { "label": "The Star", "suit": "Major Arcana", "value": 9 },
+        { "label": "The Moon", "suit": "Major Arcana", "value": 7 },
+        { "label": "The Sun", "suit": "Major Arcana", "value": 10 },
+        { "label": "Ace of Cups", "suit": "Cups", "value": 8 },
+        { "label": "Three of Cups", "suit": "Cups", "value": 6 },
+        { "label": "Queen of Wands", "suit": "Wands", "value": 9 },
+        { "label": "Three of Swords", "suit": "Swords", "value": 3 },
+        { "label": "Ten of Pentacles", "suit": "Pentacles", "value": 7 }
+    ]
+}
